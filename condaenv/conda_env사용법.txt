@@ -1,0 +1,14 @@
+#env list 생성
+conda create -n [env이름] python=3.5
+
+#리스트 보기
+conda env list
+
+#활성화
+source activate [env이름]
+
+#비활성화
+deactivate
+
+#삭제
+conda env remove -n [env이름]
