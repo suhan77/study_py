@@ -12,3 +12,7 @@ deactivate
 
 #삭제
 conda env remove -n [env이름]
+
+#콘다 업데이트
+conda update -n base conda
+conda update --all
