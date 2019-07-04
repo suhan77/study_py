@@ -1,0 +1,53 @@
+$mongo #디비 명령어창
+>use 디비이름 #디비사용, 디비 생성
+>show dbs #디비 리스트
+
+collection 생성
+>db.createCollection("컬렉션이름", 옵션)
+
+collection 확인
+>show collections
+
+Document 삽입
+>db.colleciton.insertOne()
+>db.collection.insertMany()
+>db.collection.insert()
+
+Document 모두출력
+>db.컬력션.find()
+
+Document에서 data 조회
+>db.컬렉션.find({Document})
+
+
+mongo db 설치==================================================
+
+#이미지 다운
+sudo docker pull mongo:2.4
+
+#컨테이너 실행
+sudo docker run --name mongo -d -v /data:/data/db  mongo:2.4
+
+#컨테이너 중지
+sudo docker stop [컨테이너 id]
+
+#컨테이너 삭제
+sudo docker rm [컨테이너 id]
+
+# 컨테이너간 연결 예시, link 옵션을 이용해 연결해줘야 한다.
+docker run -it --name mongo-test --link mongo:mongo mongo:2.4 /bin/bash
+
+#다른 컨테이너 안에서 몽고디비 정보 확인
+#ip 주소
+echo $MONGO_PORT_27017_TCP_ADDR
+#port 번호
+echo $MONGO_PORT_27017_TCP_PORT
+
+#몽고 쉘로 접속
+mongo $MONGO_PORT_27017_TCP_ADDR:$MONGO_PORT_27017_TCP_PORT
+
+디비시작==========================================================
+
+몽고 디비 시작 /etc/init.d/mongodb start
+몽고 디비 중지 /etc/init.d/mongodb stop
+
