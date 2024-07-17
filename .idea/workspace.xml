@@ -1,22 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b4f37df-e647-4cc7-a4a1-95d1b68359a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NLP/.ipynb_checkpoints/Llama2 실행하기-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP/Llama2 실행하기.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP/Llama2/.ipynb_checkpoints/Llama2 실행하기-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP/Llama2/Llama2 실행하기.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/.ipynb_checkpoints/이론-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NLP/이론.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP/Llama3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NLP/preprocess/download_datasets.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_test/data_structure/list.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/threads_mutiprocessing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/Llama2 실행하기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/Llama2/.ipynb_checkpoints/Llama2 실행하기-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLP/Llama2/Llama2 실행하기.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/.ipynb_checkpoints/Llama2 실행하기.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/.ipynb_checkpoints/python_study-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/.ipynb_checkpoints/은정이 사랑해~-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/String.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/import_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_study.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/디렉터리_다루기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/디렉터리_다루기2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/엑셀파일 파이썬에서 사용하기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/은정이 사랑해~.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NLP/LSTM_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/파일 입출력.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dJkmXOKAkN52vlhXHNSPfm40t4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,9 +57,31 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/jsh/dev/study_py"
+    "last_opened_file_path": "/Users/jsh/dev/study_py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/NLP" />
+      <recent name="$PROJECT_DIR$/NLP/.ipynb_checkpoints" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +90,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709733727747</updated>
+      <workItem from="1712911301534" duration="2902000" />
+      <workItem from="1713147480597" duration="17415000" />
+      <workItem from="1713244289273" duration="616000" />
+      <workItem from="1713335513336" duration="1305000" />
+      <workItem from="1713448891696" duration="916000" />
+      <workItem from="1713606839915" duration="6651000" />
+      <workItem from="1713795237129" duration="5621000" />
+      <workItem from="1713938810695" duration="1297000" />
+      <workItem from="1713944688764" duration="5577000" />
+      <workItem from="1713951196704" duration="787000" />
+      <workItem from="1713956335385" duration="3169000" />
+      <workItem from="1714027187455" duration="5235000" />
+      <workItem from="1714723152783" duration="1511000" />
+      <workItem from="1719134906157" duration="8000" />
+      <workItem from="1719135030354" duration="143000" />
+      <workItem from="1719738749585" duration="485000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
